@@ -5,11 +5,11 @@ const Counter = function () {
 
     function increment() {
         setCount(count + 1)
-      }
+    }
     
-      function decrement() {
+    function decrement() {
         setCount(count - 1)
-      }
+    }
 
     return (
         <div>
