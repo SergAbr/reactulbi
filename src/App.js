@@ -5,6 +5,7 @@ import PostItem from './components/PostItem';
 import PostList from './components/PostList';
 import './styles/App.css';
 import MyButton from './components/UI/button/MyButton';
+import MyInput from './components/UI/input/MyInput';
 
 function App() {
         const [posts, setPosts] = useState ([
